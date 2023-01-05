@@ -2,3 +2,4 @@ node_modules/
 templated-roadtrip/
 app.js.express
 app.js.http
+.env
